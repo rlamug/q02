@@ -24,7 +24,10 @@ int main()
   //the first and second blanks should be replaced with the coordinates
   //of the element's row and column and the third blank should be replaced
   //with the value of that element
-
+  int NUM_ROW;
+  int NUM_COLUMN;
+  int NUM_VALUE;
+  cout<<NUM_ROW<<"_"<<NUM_COLUMN<<"_"<<NUM_VALUE<<endl;
   
 
 
